@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "22C67B36D7E3C071906E7FA178EC0824A311BAD9",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "0E451B4B0ED673E3541E3C33445E30F337CE7340" : 9223372036854775807,
+    "22C67B36D7E3C071906E7FA178EC0824A311BAD9" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "FD03827C-A9D4-43E1-BE80-ED4BC69A84C8",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "0E451B4B0ED673E3541E3C33445E30F337CE7340" : "OpenLibraryV2\/OpenLibrary\/",
+    "22C67B36D7E3C071906E7FA178EC0824A311BAD9" : "OpenLibraryV2\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "OpenLibrary",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "OpenLibrary.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/vicveve\/OpenLibrary.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "0E451B4B0ED673E3541E3C33445E30F337CE7340"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/vicveve\/OpenLibraryV2.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "22C67B36D7E3C071906E7FA178EC0824A311BAD9"
+    }
+  ]
+}
